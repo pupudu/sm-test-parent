@@ -1,0 +1,3 @@
+[submodule "sm-test-child"]
+	path = sm-test-child
+	url = https://github.com/pupudu/sm-test-child.git
